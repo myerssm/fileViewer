@@ -1,4 +1,5 @@
 function varargout = fileViewer(varargin)
+% Aurthor: Stephen Myers (ganglion@gmail.com)
 % FILEVIEWER M-file for fileViewer.fig
 %      FILEVIEWER, by itself, creates a new FILEVIEWER or raises the existing
 %      singleton*.
